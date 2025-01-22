@@ -16,22 +16,15 @@ This repository contains Python projects focused on data analysis and visualizat
   - `statistical_functions.py`: Statistical operations like mean, std, etc.
   - `advanced_numpy.py`: Advanced NumPy topics
 
-
-Add files via upload
-now
-
-Add files via upload
-now
-
 - **`pandas_basics/`**: Contains Pandas examples
   - `pandas_DATAFRAMES.ipynb`: DataFrame  creation and manipulation
   - `pandas_SERIES.ipynb`: Series creation and manipulation
   - `pandasondatasets.ipynb`: Data cleaning techniques on data sets
 
 - **`visualization/`**: Contains Seaborn and Matplotlib examples
-  - `seaborn_examples.py`: Seaborn visualizations (e.g., scatterplot, heatmap)
-  - `matplotlib_examples.py`: Matplotlib visualizations (e.g., line plots, bar charts)
-  - `combined_visualizations.py`: Combining Seaborn and Matplotlib plots
+  - `seaborn.ipynb`: Seaborn visualizations (e.g., scatterplot, heatmap...)
+  - `matplotbasics.ipynb & matplotlib1.ipynb & matplotlib2.ipynb`: Matplotlib visualizations (e.g., line plots, bar charts....)
+ 
 
 - **`requirements.txt`**: List of dependencies
 
